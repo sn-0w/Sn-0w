@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sn-0w" alt="sn-0w" /></a> </p>
 
-- 🔭 I’m currently working on **several obfuscation ideas**
+- 🔭 I’m currently working on **some smaller projects** so if you got any cool ideas to realize make sure to message me!
 
 <p align="left">
 </p>
